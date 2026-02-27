@@ -1,0 +1,9 @@
+## 1.0.0
+
+- Initial release.
+- Robust EMV data extraction support.
+- Support for Cardholder name, IBAN, and BIC extraction.
+- Support for Application Transaction Counter (ATC) and PIN Try Counter.
+- Support for reading and parsing transaction history.
+- Decimal formatting for all counter fields.
+- Support for technical tags like IAD, ADA, and CTQ.

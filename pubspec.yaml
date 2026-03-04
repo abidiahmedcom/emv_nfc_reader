@@ -1,6 +1,7 @@
 name: emv_nfc_reader
 description: "A comprehensive Flutter plugin for reading and extracting advanced EMV data, bank details, and transaction history from NFC credit cards."
-version: 1.0.0
+version: 1.0.2
+homepage: https://abidiahmed.com
 repository: https://github.com/abidiahmedcom/emv_nfc_reader
 topics:
   - nfc
@@ -8,6 +9,9 @@ topics:
   - credit-card
   - payments
   - security
+screenshots:
+  - description: "Scanning a Visa card with transaction history and bank details"
+    path: assets/showcase.gif
 
 environment:
   sdk: ^3.10.3

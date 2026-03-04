@@ -1,3 +1,12 @@
+## 1.0.2
+
+- Added GIF showcase to README.
+- Added screenshots metadata to pubspec.
+
+## 1.0.1
+
+- Added portfolio homepage link to pubspec.
+
 ## 1.0.0
 
 - Initial release.

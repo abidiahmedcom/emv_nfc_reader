@@ -1,6 +1,6 @@
 # emv_nfc_reader
 
-![EMV NFC Reader Showcase](assets/showcase.gif)
+![EMV NFC Reader Showcase](https://raw.githubusercontent.com/abidiahmedcom/emv_nfc_reader/main/assets/showcase.gif)
 
 A powerful Flutter plugin for reading and extracting comprehensive data from EMV (Europay, Mastercard, and Visa) NFC cards.
 

@@ -74,6 +74,12 @@ The `startReading()` method returns a `Map<String, String>` containing:
 - **Issuer Privacy**: Some banks opt-out of sharing certain fields (like IBAN or Name) via the contactless interface.
 - **Security**: This library cannot extract PINs or Private Keys.
 
+## Feedback
+
+If you found this useful, give the package a ⭐ on GitHub and a 👍 on pub.dev. It helps other developers discover it!
+
+Have questions or feature requests? Open an issue on GitHub or drop a comment below.
+
 ## License
 
 MIT License.
